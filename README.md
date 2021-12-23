@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saad Nazir
+- 👋 Hi, I’m Saad Nazir. I did my beachelor in computer engineering.
 - 👀 I’m interested in data science, machine learning and deep learning.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m excited to be the part of the team.
